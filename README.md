@@ -74,28 +74,6 @@ Currently exploring **Machine Learning, Generative AI, and Security-focused tech
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔐 Surakshit – Personal Guardian System
-Machine Learning based **human scream detection system** that identifies distress sounds and automatically alerts emergency contacts and authorities.
-
-**Tech Used:** Python, ML models, Audio Processing, Web Application  
-
----
-
-### 🫁 Vayu – Lung Cancer Detection
-AI-based healthcare system designed to assist early detection of lung cancer using machine learning techniques.
-
-**Tech Used:** Python, TensorFlow, Medical Dataset Analysis
-
----
-
-### 🛡 Crime Detection & Reporting Platform
-An **OSINT-powered crime reporting platform** that collects public data, CCTV feeds, and citizen reports to detect incidents and generate DFIR reports.
-
----
-
-
 ---
 
 ### ✍️ Developer Quote
