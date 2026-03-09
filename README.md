@@ -27,7 +27,7 @@ Currently exploring **Machine Learning, Generative AI, and Security-focused tech
 
 🏆 Active participant in **national hackathons and cybersecurity competitions**
 
-📫 Reach me at: **shubhamrathore.ai@gmail.com**
+📫 Reach me at: **shubham222651@gmail.com**
 
 ⚡ Fun fact: *I enjoy building technology that can actually improve real-world safety.*
 
@@ -95,13 +95,6 @@ An **OSINT-powered crime reporting platform** that collects public data, CCTV fe
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
